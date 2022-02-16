@@ -68,3 +68,57 @@ button{
     background-color: #d9ccc46c ;
     border: 1px solid blue;
 }
+.bestselleroption{
+    background-color: aliceblue;
+}
+.sellerheader{
+    padding: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: purple;
+    font-weight: bold;
+}
+.sellerproduct{
+    display: flex;
+    background-color: aliceblue;
+    align-items: center;
+    color: purple;
+
+    padding: 20px;
+    
+}
+.candypot{
+    float: left;
+    padding-left: 200px ;
+    text-align: center;
+    
+}
+.dropvase{
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    
+}
+
+.wavevase{
+    float: left;
+    padding-left: 20px;
+    text-align: center;
+    
+}
+
+.sunvase{
+    text-align: center;
+    overflow: hidden;
+    padding-left: 20px;
+}
+.sellerbutton{
+    text-align: center;
+    padding: 50px;
+}
+.sellerbutton button{
+    padding: 15px 30px;
+    border: 1px solid purple;
+    color: purple;
+    text-align: center;
+}
