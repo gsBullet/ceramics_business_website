@@ -134,4 +134,57 @@ button{
     font-weight: bold;
     margin: 0 auto;
 }
+.followinstagram{
+    background-color: aliceblue;
 
+}
+.instagramheader{
+    text-align: center;
+    font-size: 40px;
+    color: purple;
+    font-weight: 550;
+    padding: 50px;
+}
+.instagramgallary{
+    display: flex;
+    width: 870px;
+    margin: 0 auto;
+}
+
+.instagramgallary img{
+    padding: 0px 15px;
+}
+.instagramid{
+    text-align: center;
+    padding: 30px;
+}
+.instagramid a{
+    color: blueviolet;
+}
+.footeroptions{
+    background-color: rgba(173, 176, 179, 0.973);
+    padding: 50px 30px 0px ;
+}
+.barfooter{
+    display: flex;
+}
+.barfooterdiagram{
+    padding: 15px;
+    float: right;
+    /* border: 1px solid rgb(33, 25, 150); */
+}
+.barfooterdiagram a{
+    padding: 15px;
+    color: blueviolet;
+    
+}
+.minalogo{
+    width: 47%;
+    float: left;
+    /* border: 1px solid rgb(33, 25, 150); */
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: arial black;
+    padding: 15px;
+}
